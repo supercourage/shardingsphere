@@ -47,3 +47,5 @@ gen/
 
 # agent build ignore
 /agent/
+
+/examples/
